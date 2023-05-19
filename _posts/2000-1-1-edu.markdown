@@ -3,7 +3,7 @@ layout: default
 img: pucrs.webp
 category: Education
 title: Graduate School in Data Science & Artificial Intelligence
-description: 2012-2016
+description: 2023-Current
 ---
 
 * __2023 - Current__
