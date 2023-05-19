@@ -33,13 +33,12 @@ social:
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/andrepesati/
-#  - icon: file-pdf-o
-#    title: CV
-#    url: img/CassolDanielaCV.pdf
+  - icon: file-pdf-o
+    title: CV
+    url: img/AndreCV.pdf
 #  - icon: website
 #    title: CV Lattes
 #    url: http://lattes.cnpq.br/5399100590606067
-  - icon: twitter
-    title: twitter
-    url: https://twitter.com/danicassol
+
+
 
