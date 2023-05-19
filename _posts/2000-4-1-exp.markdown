@@ -1,1 +1,15 @@
+---
+layout: default
+img: bnb.png
+category: Experiences
+title: Technical Support / Analyst at Level 1 and Level 2
+description:
+---
 
+* __2016 – 2018__
+* Stefanini, Banco do Nordeste (BNB), Fortaleza - CE
+* Provide customer service following the principles of the ITIL platform acting at Level 1 and Level 2.
+* Support for banking systems using SQL and Active Directory tool.
+* Participation in configuration evolution project and use of deployment automation tool (PDQ Deploy).
+* Linux servers, SVN version control and Eclipse to development of applications.
+* Working with PL/SQL Oracle, Javascript, Glueframework, JQwidgets and JQuery.
