@@ -1,1 +1,14 @@
+---
+layout: default
+img: ihm.png
+category: Experiences
+title: System Analyst
+description: |
+---
 
+* __2019 – 2020__
+* IHM Stefanini, Companhia Siderúrgica do Pecém (CSP), Pecém-CE
+* Participation in the MES project (Manufacturing Execution System) as responsible for the development of new applications and maintenance.
+* PL/SQL Oracle manipulation to create functions, triggers and procedures and cursor.
+* Linux servers, SVN version control and Eclipse to development of applications.
+* Working with PL/SQL Oracle, Javascript, Glueframework, JQwidgets and JQuery.
