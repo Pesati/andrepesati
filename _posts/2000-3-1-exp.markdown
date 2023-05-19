@@ -3,7 +3,7 @@ layout: default
 img: ihm.png
 category: Experiences
 title: System Analyst
-description: |
+description:
 ---
 
 * __2019 – 2020__
