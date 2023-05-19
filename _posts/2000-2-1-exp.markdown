@@ -1,11 +1,13 @@
 ---
 layout: default
-img: dna.png
+img: simco.JPG
 category: Experiences
-title: "Molecular Biology Bioinformatic Scientist"
+title: System Analyst
 description: |
 ---
 
-* __2016 – 2017__
-* *Biogenetika*
-* Conduct laboratory research in the areas of single nucleotide polymorphisms, DNA mutations, exomes sequencing and metagenomics. This involves data collection, DNA isolation, analysis and interpretation of results, including next generation sequencing data, bioinformatics analysis and writing reports.
+* __2019 – 2020__
+* SiMCo - Healthcare, Fortaleza-CE
+* CRequirements analysis and specification in system projects.
+* Participation in implementation and integration projects in Systems/ERP - TASY.
+* Created a PL/SQL objects and reports to automate activities and flow improvements.
