@@ -1,1 +1,13 @@
+---
+layout: default
+img: sports.jpg
+category: Hobbies
+title: Sports and Trips
+description:
+---
+
+* I love to practice sports.
+* I also enjoy play some kind of online games.
+* I like to read in my kindle. 
+* I like discovering new places.
 
