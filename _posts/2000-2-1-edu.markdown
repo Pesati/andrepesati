@@ -3,7 +3,7 @@ layout: default
 img: csumb.jpeg
 category: Education
 title: Exchange Student Scholarship Holder at CNPq
-description: |
+
 ---
 
 * __2010 - 2012__
