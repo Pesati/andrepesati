@@ -1,14 +1,13 @@
 ---
 layout: default
-img: Master.JPG
+img: csumb.jpeg
 category: Education
-title: Master's in Plant Physiology
+title: Exchange Student Scholarship Holder at CNPq
 description: |
 ---
 
 * __2010 - 2012__
-* Federal University of Viçosa, Viçosa, Brazil
-* Production, accumulation and exudation of organic acids on aluminum toxicity in *Stylosanthes*.
-* Advisor: Dr. José Cambraia
+* California State University, Monterey Bay - Monterey Bay - CA, United States
+* Science without Borders
 * Scholarship from: CNPq
 
