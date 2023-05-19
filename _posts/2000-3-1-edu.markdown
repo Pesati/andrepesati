@@ -1,14 +1,14 @@
 ---
 layout: default
-img: rice.JPG
+img: graduacao.JPG
 category: Education
-title: Bachelor's in Biological Sciences
-description: |
+title: Bachelor's in Computer Science
+description: UM ESTUDO DOS ASPECTOS DOS CHATBOTS PARA IDENTIFICAR PADRÕES DE INTERAÇÃO DO USUÁRIO COM SERVIÇOS DE CHATS EM MÍDIAS DIGITAIS
 ---
 
-* __2005 - 2010__
-* Federal University of Pelotas, Pelotas, Brazil
-* Advisor: Dr. Marcos Antonio Bacarin
-* Scholarship from: FAPERGS and CNPq
+* __20010 - 2018__
+* Universidade Estadual do Ceará, Fortaleza-CE, Brazil
+* Advisor: Dra. Elizabeth Sucupira Furtado
+
 
 
