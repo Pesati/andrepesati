@@ -1,1 +1,15 @@
+---
+layout: default
+img: acens.jpg
+category: Experiences
+title: Internship / Director of Human Resources
+description:
+---
 
+* __2011 – 2013__
+* Stefanini, Banco do Nordeste (BNB), Fortaleza - CE
+* Web development using phpMyAdmin and Wordpress.
+* Agile project management framework Scrum to developed the activities.
+* Responsible for training new members in the Company and assisting other directors of the Company.
+* Organization of activities and mini-courses.
+* Worked with PHTML, CSS, PHP, MySQL and Scrum.
