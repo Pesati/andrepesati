@@ -1,1 +1,13 @@
+---
+layout: default
+img: california.jpg
+category: Experiences
+title: Academic Training - Internship
+description:
+---
 
+* __2016 – 2018__
+* California State University, Monterey Bay - California - CA, United States.
+* Learn how to work with potential client(s) and customer(s) to develop software system.
+* Learn and implement the process on the software development through the user requirements analysis, design, implementation, and testing.
+* Xcode and Swift language.
