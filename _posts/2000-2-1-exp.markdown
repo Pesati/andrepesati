@@ -8,6 +8,6 @@ description:
 
 * __2019 – 2020__
 * SiMCo - Healthcare, Fortaleza-CE
-* CRequirements analysis and specification in system projects.
+* Requirements analysis and specification in system projects.
 * Participation in implementation and integration projects in Systems/ERP - TASY.
 * Created a PL/SQL objects and reports to automate activities and flow improvements.
