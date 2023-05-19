@@ -3,11 +3,12 @@ layout: default
 img: graduacao.JPG
 category: Education
 title: Bachelor's in Computer Science
-description: UM ESTUDO DOS ASPECTOS DOS CHATBOTS PARA IDENTIFICAR PADRÕES DE INTERAÇÃO DO USUÁRIO COM SERVIÇOS DE CHATS EM MÍDIAS DIGITAIS
+
 ---
 
 * __20010 - 2018__
 * Universidade Estadual do Ceará, Fortaleza-CE, Brazil
+* UM ESTUDO DOS ASPECTOS DOS CHATBOTS PARA IDENTIFICAR PADRÕES DE INTERAÇÃO DO USUÁRIO COM SERVIÇOS DE CHATS EM MÍDIAS DIGITAIS
 * Advisor: Dra. Elizabeth Sucupira Furtado
 
 
