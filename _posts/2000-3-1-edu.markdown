@@ -8,7 +8,7 @@ title: Bachelor's in Computer Science
 
 * __20010 - 2018__
 * Universidade Estadual do Ceará, Fortaleza-CE, Brazil
-* UM ESTUDO DOS ASPECTOS DOS CHATBOTS PARA IDENTIFICAR PADRÕES DE INTERAÇÃO DO USUÁRIO COM SERVIÇOS DE CHATS EM MÍDIAS DIGITAIS
+* Um estudo dos aspectos dos chatbots para identificar padrçnoes de interação do usuário com serviços de chats em mídias digitais
 * Advisor: Dra. Elizabeth Sucupira Furtado
 
 
