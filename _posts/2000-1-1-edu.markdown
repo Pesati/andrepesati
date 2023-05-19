@@ -1,14 +1,11 @@
 ---
 layout: default
-img: phd.JPG
+img: pucrs.webp
 category: Education
-title: PhD in Genetics
+title: Graduate School in Data Science & Artificial Intelligence
 description: 2012-2016
 ---
 
-* __2012 - 2016__
-* Federal University of Rio de Janeiro, Rio De Janeiro, Brazil
-* The global study of differentially regulated transcriptome in the response and tolerance pathway to the drought stress in castor bean (*Ricinus communis*)
-* Advisor: Dr. Gilberto Sachetto-Martins
-* Scholarship from: CNPq and FAPERJ
+* __2023 - Current
+* Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS
  
