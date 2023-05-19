@@ -12,4 +12,4 @@ description: |
 * Participation in international projects for Austria and Latam (Argentina/Colômbia/Bolívia) to development of new features.
 * Working with PL/SQL Oracle manipulation to create functions, triggers and procedures and cursor.
 * Using PL/SQL Oracle, Tasy ERP, HTML5 and GitHub.
-• Agile Methodology: SAFe, Scrum and Kanban.
+* Agile Methodology: SAFe, Scrum and Kanban.
